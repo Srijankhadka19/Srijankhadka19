@@ -3,7 +3,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1011082568832126976/1669012305/1500x500">
 
 
-<H3>Skills and Experience:</H3><br>💻HTML,CSS,JS
+<H3><u>Skills and Experience:</u></H3><br>💻HTML,CSS,JS
 <br>
 <br>
 

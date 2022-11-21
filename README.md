@@ -4,8 +4,8 @@
 
 i'm really enjoy to learn new programming languages..
 
-Skills:
-💻HTML,CSS,JS
+<H3>Skills:</H#><br>
+<b>💻HTML,CSS,JS</b>
 
 
 

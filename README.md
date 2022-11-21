@@ -4,14 +4,9 @@
 
 
 <H3>Skills:</H3><br>
-<br>
 <b>💻HTML,CSS,JS</b>
 <br>
 <br>
-
-
-
-
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>(https://github.com/Srijan khadka) <br>
 <br>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>(https://www.linkedin.com/in/Srijan Khadka)  <br>

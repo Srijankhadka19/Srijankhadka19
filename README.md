@@ -1,11 +1,9 @@
 ### Hi there 👋, I'm Srijan Khakda<br>
-<h3>I am Studying Computer Science.i'm really enjoy to learn new programming languages..</h3>
+<h3>I am Studying Computer Science anf technology.I'm really enjoy to learn new programming languages like java,python,c++ etc...</h3>
 <img src="https://pbs.twimg.com/profile_banners/1011082568832126976/1669012305/1500x500">
 
-![I am Studying Computer Science new programming languages..</h3>
 
-
-<H3>Skills:</H#><br>
+<H3>Skills:</H3><br>
 <br>
 <b>💻HTML,CSS,JS</b>
 <br>
